@@ -1,0 +1,20 @@
+form {
+  position: absolute;
+  margin: 0;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.input-div {
+  margin-bottom: 10px;
+}
+
+.MuiInputLabel-root {
+  margin-bottom: 10px !important;
+}
+
+textarea {
+  height: 200px !important;
+  width: 100%;
+}
