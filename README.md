@@ -2,6 +2,10 @@
 
 React Dynamic Routes is a example of how to create dynamic routes using observables.
 
+Generally, applications create all routes and give users access according to the type of user.
+
+In this logic, we can create the route only if necessary based on the logged in user, thus making the logic much simpler and more intuitive.
+
 ## Installation
 
 Clone the repository and then run:
